@@ -1,8 +1,9 @@
 
 nav .brand-logo {
   margin-left: 10px;
-  margin-top: 10px;
+  margin-top: 13px;
   font-family: 'Josefin Sans', sans-serif;
+  font-size: 38px;
 
 }
 
@@ -14,7 +15,10 @@ nav .nav-wrapper {
 }
 
 .greenbox {
-  margin: 20px;
+  /* margin: 20px; */
+
+  margin: 7px 2px 5px 10px;
+
 }
 
 .header {
@@ -22,16 +26,17 @@ nav .nav-wrapper {
   /* margin-top: 10px; */
   margin-left: 100px;
   font-family: 'Josefin Sans', sans-serif;
-  font-size: 35px;
+  /* font-size: 40px; */
 
 }
 
 .subheader {
-  padding-top: 10px;
+  margin-top: 13px;
   float: right;
   font-style: italic;
-  font-size: 20px;
+  font-size: 25px;
   padding-right: 30px;
+
 }
 
 /* #nav-mobile {
@@ -55,7 +60,7 @@ body {
   bottom: 0;
   width: 100%;
   height: 50px;
-  line-height: 100px;
+  /* line-height: 100px; */
   background-color: #4B295E;
   border-top: 6px solid #4aaaa5;
   color: #dddddd;
@@ -96,4 +101,9 @@ ul.a {
 
 .contact {
   text-align: center;
+}
+
+.ft {
+  font-size: 10px;
+
 }
