@@ -113,7 +113,15 @@ ul.a {
 }
 
 .st {
-  height: 143px;
-  width: 250px;
+  height: 150px;
+  width: 275px;
 
+}
+
+.big {
+  max-width: 230px;
+  height: auto;
+  width: 100%;
+  max-height: 200px;
+  display: block;
 }

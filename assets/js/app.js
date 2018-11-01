@@ -1,6 +1,7 @@
 $(document).ready(function(){
       $('.carousel').carousel({
-          padding: 300
+          padding: 300,
+
       });
       autoplay();
     });
